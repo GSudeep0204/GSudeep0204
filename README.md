@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudeep Gudekota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsudeep0204&label=Profile%20views&color=0e75b6&style=flat" alt="gsudeep0204" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsudeep0204&label=Profile%20views&color=0e75b6&style=flat" alt="gsudeep0204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsudeep0204" alt="gsudeep0204" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsudeep0204" alt="gsudeep0204" /></a> </p> -->
 
 - 🌱 I’m currently learning **ReactJs,Redux.**
 
