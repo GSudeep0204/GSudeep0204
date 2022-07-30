@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsudeep0204" alt="gsudeep0204" /></a> </p> -->
 
-- 🌱 I’m currently learning **ReactJs,Redux.**
+- 🌱 I’m currently learning **Firebase,Tailwind.**
 
 - 👨‍💻 All of my projects are available at [https://sudeep-personal-portfolio.vercel.app/](https://sudeep-personal-portfolio.vercel.app/)
 
